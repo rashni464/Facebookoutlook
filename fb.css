@@ -1,0 +1,149 @@
+#first
+{
+background-color: blue;
+height: 40px;
+width: 2000px;
+
+}
+.second
+{
+position: absolute;
+left: 100px;
+}
+.third
+{
+    position: absolute;
+    left:150px;
+    text-align: center;
+    padding: 10px 12px;
+    text-decoration: none;
+    font-size: 12px;
+    width: 200px;
+  
+}
+.fourth
+{
+    position: absolute;
+    left:380px;
+    text-align: center;
+    padding: 10px 12px;
+    text-decoration: none;
+    font-size: 12px;
+  
+    
+}
+.fifth
+{
+    position: absolute;
+    left:950px;
+    text-align: center;
+    padding: 10px 12px;
+    text-decoration: none;
+    font-size: 12px;
+}
+.six
+{
+    position: absolute;
+    left:1020px;
+    text-align: center;
+    padding: 10px 12px;
+    text-decoration: none;
+    font-size: 12px;
+}
+    
+
+    .seventh
+    {
+        position: absolute;
+        left:1080px;
+        text-align: center;
+        padding: 10px 12px;
+        text-decoration: none;
+        font-size: 12px;
+    }
+    
+.parent
+{
+    position: absolute;
+    left: 100px;
+}
+.eight
+{
+    position: absolute;
+    left: 20px;
+    border-radius: 50%;
+    top: 270px;
+}
+.div1
+{
+    position: absolute;
+    left: 300px;
+top: 350px;
+
+        padding: 10px 12px;
+    color: aliceblue;
+        font-size: 30px;
+        
+}
+.div2
+{
+    position: absolute;
+    left: 600px;
+top: 350px;
+
+        padding: 8px 10px;
+    
+        font-size: 20px;
+        
+}
+.div3
+{
+    position: absolute;
+    left: 750px;
+top: 350px;
+
+        padding: 8px 10px;
+    
+        font-size: 20px;
+        
+}
+.parent1
+{
+    background-color: beige;
+    position: absolute;
+    top:450px;
+    left:600px;
+    
+    
+    margin: 2px;
+    padding: 20px;
+    display: flex;
+    flex-flow: row wrap;
+    height: 20px;
+} 
+.div4
+{
+    background-color:white;
+    color: blue;
+    font-size: 15px;
+    
+}
+.parent2
+{
+    background-color:wheat;
+    position: absolute;
+    top:550px;
+    
+height: 40px;
+width: 300px;
+}
+.startic
+{
+    position: absolute;
+    top:4px;
+    left: 100px;
+}
+.review
+{
+    float: right;
+}
